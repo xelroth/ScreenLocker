@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# rebuild ui
-# use all the ascii letters (optional)
-# over write bootsector (optional)
 
 from tkinter import(
     Tk as Tkinter,
